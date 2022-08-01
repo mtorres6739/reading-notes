@@ -2,7 +2,7 @@
 
 _My name is Mathew and love sci-fi!_
 
-### About Mathew
+## About Mathew
 
 ![This is a picture of Mathew](https://i.ibb.co/RYF2zv7/Mathew-Torres-web.jpg)
 
@@ -13,7 +13,7 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 I'm currently running on macOS Monterey version 12.5,
 I have dabbled with web design since I was in high school back in 99, but never really made a push to make it a career, until now.  I'm really excited to go all in and make a life change with tech.
 
-### My Growth Mindset
+## My Growth Mindset
 
 I am always on a quest to learn something new and more of what I already think I know.  I always find there is more to understand.  I also don't give up until I understand something and I love it when I finally figure something out and it just works.  I also like to work with other people and bounce ideas off eachother.  When I'm in a team, for some reason, thinks seem to happen quicker when you have multiple minds thinking out loud.
 
