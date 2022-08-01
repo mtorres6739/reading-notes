@@ -17,7 +17,7 @@ I have dabbled with web design since I was in high school back in 99, but never 
 
 I am always on a quest to learn something new and more of what I already think I know.  I always find there is more to understand.  I also don't give up until I understand something and I love it when I finally figure something out and it just works.  I also like to work with other people and bounce ideas off eachother.  When I'm in a team, for some reason, thinks seem to happen quicker when you have multiple minds thinking out loud.
 
-> “Most great people have attained their greatest success just one step beyond their greatest failure.” — Napoleon Hill 
+> _“Most great people have attained their greatest success just one step beyond their greatest failure.”_ - Napoleon Hill 
 
 ### 3 reminders for growth mindset:
 
