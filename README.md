@@ -10,4 +10,4 @@ Talk about growth mindset
 * Push the "I Believe!" button
 * Ask for help - no shame in getting help! (don't be stubborn, Mathew)
 
-Link to my github portfolio: https://github.com/mtorres6739
+Link to my github portfolio: [https://github.com/mtorres6739]
