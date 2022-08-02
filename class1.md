@@ -19,7 +19,7 @@ _This class stressed the importance of setting up our accounts and ensure the pr
 
 ## Navigation
 
-- [Home](README)
+- [Home](https://mtorres6739.github.io/)
 - [Growth Mindset](growthMindset)
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)

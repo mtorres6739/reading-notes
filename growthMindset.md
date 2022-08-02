@@ -14,7 +14,7 @@ I am always on a quest to learn something new and more of what I already think I
 
 ## Navigation
 
-- [Home](README)
+- [Home](https://mtorres6739.github.io/)
 - [Growth Mindset](growthMindset)
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)
