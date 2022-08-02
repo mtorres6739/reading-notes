@@ -19,7 +19,7 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 
 ## Table of Contents
 
-- [Home](https://mtorres6739.github.io/)
+- [Home](https://mtorres6739.github.io/reading-notes)
 - [Growth Mindset](growthMindset)
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)
