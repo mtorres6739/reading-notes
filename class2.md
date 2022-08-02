@@ -42,4 +42,5 @@ _This class focused on the proper setup of our machines to provide an efficient 
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)
 - [Class 3 Notes](class3)
+- [Class 4 Notes](class4)
 - [GitHub Portfolio](https://github.com/mtorres6739)
