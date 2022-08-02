@@ -38,8 +38,11 @@ _This class focused on the proper setup of our machines to provide an efficient 
        - zsh
        - VS code
  
-   - Text Editors vs Code-Specific Editors
-       - We learned the difference between basic text editors and coding-specific editors, like VS code.  VS code allows for full functionality for making it easier to write code.  For example, some systax will auto-populate and auto-complete when writing the first few characters of code. For example, when opening a bracket, there will be an automatic closed bracket created.  VS code will also color code your text, highlight in color codes for certain functions, and also identify any problems in coding syntax and provide solutions. Overall, a coding-specufic platforms like VS code is significantly more efficient than a standard text editor that has none of the features mentioned. Also worth noting, there are a multitude of code-specific editors other than VS code.  VS code just happens to be the one I enjoy using the most.
+   - Text Editors vs Code-Specific Editors vs IDE (Integrated Development Environment
+      - Text Editors
+        - Basic text editors are going to be simple applications that purely edit text without any other formatting.  This will be programs like text editor for max or notepad for windows.  In these programs there is none special characteristis to the format of the text.
+      - Code-Specific Editors
+        - Code-specific editors, like VS code, are going to provide specific functionality for making it easier to write code.  For example, some systax will auto-populate and auto-complete when writing the first few characters of code. When opening a bracket, there will be an automatic closed bracket created.  There will also be color codes added to your text to indicate certain functions and other rules. There is also indicators that show any potential problems in coding syntax and provide possible solutions. Overall, a coding-specufic platform like VS code is significantly more efficient than a basic text editor that has none of the features mentioned. Also worth noting, there are a multitude of code-specific editors other than VS code, such as Brackets, Atom, Sublime Text, BB Edit, Notepad++ etc.
    
    - The Command Line Terminal
       - We learned the basic commands of the command line terminal so that we may be able to create and name directories, move around the differnt folders, create files and install programs. 
