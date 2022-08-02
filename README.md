@@ -1,3 +1,5 @@
+[Topic Summary](https://mtorres6739.github.io/reading-notes/topicsummary.html)
+
 # This is my reading notes repo!
 
 _My name is Mathew and love sci-fi!_
