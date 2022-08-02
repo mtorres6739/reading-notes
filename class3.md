@@ -63,6 +63,7 @@ _This class stressed the importance of git and github. We also went over the dif
 
 ## Navigation
 
+- [Home](README)
 - [Growth Mindset](growthMindset)
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)

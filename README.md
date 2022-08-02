@@ -16,6 +16,7 @@ I have dabbled with web design since I was in high school back in 99, but never 
 
 ## Table of Contents
 
+- [Home](README)
 - [Growth Mindset](growthMindset)
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)
