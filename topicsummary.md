@@ -1,12 +1,12 @@
 [Home](https://mtorres6739.github.io/reading-notes/)
 
 # Topic Summary
+_This is a summary of the material I learned in this class._
 
 ## Code 101
 
-This is a summary of the material I learned in this class.
-
 ### Class 1
+_This class stressed the importance of setting up our accounts and ensure the profiles matched from profile to profile._
 
 - **Setting up Accounts**
   - CANVAS
@@ -24,18 +24,32 @@ This is a summary of the material I learned in this class.
 ***
 
 ### Class 2
+_This class focused on the proper setup of our machines to provide an efficient coding environment. It involved downloading the correct applications and understanding how to use the command line terminal_
 
 - **The Coder's Computer**
-  - In this class we setup our computers with all the neccessary programs that will enable our machines to be a proper coding environment.  We installed programs via the command terminal which include:
-    - Homebrew
-    - git
-    - node
-    - live server
-    - eslint
-    - tree
-    - zsh
-    - VS code
+   
+  - Programs installed via the command terminal include:
+       - Homebrew
+       - git
+       - node
+       - live server
+       - eslint
+       - tree
+       - zsh
+       - VS code
+ 
    - Text Editors vs Code-Specific Editors
-     - We learned the difference between basic text editors and coding-specific editors, like VS code.  VS code allows for full functionality for making it easier to write code.  For example, some systax will auto-populate and auto-complete when writing the first few characters of code. For example, when opening a bracket, there will be an automatic closed bracket created.  VS code will also color code your text, highlight in color codes for certain functions, and also identify any problems in coding syntax and provide solutions. Overall, a coding-specufic platforms like VS code is significantly more efficient than a standard text editor that has none of the features mentioned. Also worth noting, there are a multitude of code-specific editors other than VS code.  VS code just happens to be the one I enjoy using the most.
-    - The Terminal
-      - When it comes to installing programs and configuring your system, the terminal is a way that is the most direct.  While it will take some time to learn the many command lines that will enable you to perform a variety of actions on your system, there is more control in how you interact with your system when using the terminal.  You can create files and navigate to different directors, among other things, by using simple commands.
+       - We learned the difference between basic text editors and coding-specific editors, like VS code.  VS code allows for full functionality for making it easier to write code.  For example, some systax will auto-populate and auto-complete when writing the first few characters of code. For example, when opening a bracket, there will be an automatic closed bracket created.  VS code will also color code your text, highlight in color codes for certain functions, and also identify any problems in coding syntax and provide solutions. Overall, a coding-specufic platforms like VS code is significantly more efficient than a standard text editor that has none of the features mentioned. Also worth noting, there are a multitude of code-specific editors other than VS code.  VS code just happens to be the one I enjoy using the most.
+   
+   - The Command Line Terminal
+      - We learned the basic commands of the command line terminal so that we may be able to create and name directories, move around the differnt folders, create files and install programs. 
+      - Basic Commands
+        - **pwd** (_print working directory_)
+        - **ls** (_list the contents of the directory/folder_)
+        - **cd** (_move to a new folder/change directory_)
+        - **mkdir** (_make a new directory/folder_)
+        - **clear** (_clear out the terminal_)
+        - **touch** (_create a file_)
+        - **code .** (_open up VS code from terminal_)
+        - **cd ..** (_go back in the directory - the number of dots equals the number of directories to go back_)
+        - **tree** (_see a visual representation of all the directories and files_)
