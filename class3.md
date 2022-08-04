@@ -70,4 +70,5 @@ _This class stressed the importance of git and github. We also went over the dif
 - [Class 3 Notes](class3)
 - [Class 4 Notes](class4)
 - [Class 5 Notes](class5)
+- [Class 6 Notes](class6)
 - [GitHub Portfolio](https://github.com/mtorres6739)

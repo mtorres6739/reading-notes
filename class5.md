@@ -38,6 +38,7 @@ _This class focused on CSS and its function in styling websites._
   - [CSs References](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
   - [Betterpalceholder Website](http://www.betterplaceholder.com)
+  - [Website I referenced to style class website movie form](https://www.w3schools.com/css/tryit.asp?filename=trycss_forms)
 
 
 ## Navigation
@@ -49,4 +50,5 @@ _This class focused on CSS and its function in styling websites._
 - [Class 3 Notes](class3)
 - [Class 4 Notes](class4)
 - [Class 5 Notes](class5)
+- [Class 6 Notes](class6)
 - [GitHub Portfolio](https://github.com/mtorres6739)
