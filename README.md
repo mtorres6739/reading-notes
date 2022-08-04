@@ -25,4 +25,5 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 - [Class 2 Notes](class2)
 - [Class 3 Notes](class3)
 - [Class 4 Notes](class4)
+- [Class 5 Notes](class5)
 - [GitHub Portfolio](https://github.com/mtorres6739)
