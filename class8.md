@@ -45,6 +45,7 @@ _This class focused on Programming JavaScript Loops and Operators._
   - [Logical Operators](https://press.rebus.community/programmingfundamentals/chapter/logical-operators/)
   - [Conditional ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
   - [typeof Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+  - [Youtube video on for loop and while loop](https://youtu.be/leMzF0esu38)
 
 ## Navigation
 
