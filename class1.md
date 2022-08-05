@@ -27,4 +27,6 @@ _This class stressed the importance of setting up our accounts and ensure the pr
 - [Class 4 Notes](class4)
 - [Class 5 Notes](class5)
 - [Class 6 Notes](class6)
+- [Class 7 Notes](class7)
+- [Class 8 Notes](class8)
 - [GitHub Portfolio](https://github.com/mtorres6739)

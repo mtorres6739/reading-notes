@@ -4,7 +4,7 @@ _This class focused on javascript and how it can add functionality and user inte
   ***
 
 - **What is Javascript**
-    - In this lesson we learned that javascript is a coding language that can add a lot of functionality to our webpage.  It makes it so that a user can interact with elements on the page and things start to happen.  User inputs become possible, and we can take those user inputs and do things with them.  For example, we can ask the user for their name and then display that name somewhere on the website.  In essense, javascript is where the magic begins to happen with a website.  It's also worth noting that javascript is very similar to algebra.
+  - In this lesson we learned that javascript is a coding language that can add a lot of functionality to our webpage.  It makes it so that a user can interact with elements on the page and things start to happen.  User inputs become possible, and we can take those user inputs and do things with them.  For example, we can ask the user for their name and then display that name somewhere on the website.  In essense, javascript is where the magic begins to happen with a website.  It's also worth noting that javascript is very similar to algebra.
 
 - **Related to algebra**
   - "=" means assigning something to a variable
@@ -33,14 +33,13 @@ _This class focused on javascript and how it can add functionality and user inte
     - OUTPUT
       - This is the end result so it could be a video we are trying to view, or program we are tyring to use.  It could also be something physical we are tyring to create like with a 3d printer.
 
-
 - **References**
   - [Youtube video on how I made my movie form](https://www.youtube.com/watch?v=hdI2bqOjy3c)
   - [Website used to reference time of day greeting javascript](https://www.w3schools.com/js/tryit.asp?filename=tryjs_elseif)
   - [Reference website for javascript prompts](https://code-maven.com/javascript-input-with-prompt-and-confirm)
   - [Javascript reference website](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [How Computers Work Video Series](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-
+  - [Accessing HTML elements](https://www.mikedane.com/web-development/javascript/accessing-html-elements/)
 
 ## Navigation
 
@@ -52,4 +51,6 @@ _This class focused on javascript and how it can add functionality and user inte
 - [Class 4 Notes](class4)
 - [Class 5 Notes](class5)
 - [Class 6 Notes](class6)
+- [Class 7 Notes](class7)
+- [Class 8 Notes](class8)
 - [GitHub Portfolio](https://github.com/mtorres6739)

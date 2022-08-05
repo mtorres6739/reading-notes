@@ -4,13 +4,13 @@ _This class focused on CSS and its function in styling websites._
   ***
 
 - **What is CSS**
-    - In this lesson we learned the CSS, Cascading Style Sheets, is what makes the actual web page look good. The HTML basically just renders the content on the page, the CSS is what actually makes it look pleasing to the eye. It gives more structure and a presentable look that makes it easier for a user to interact with. It defines color, spacing, padding, margin, blocks, etc. It tells the browser to override its default style and use something else. We then can define, very specifically, how each element of content is displayed to the user.
-        - CSS provides the styline for a webpage
-        - Overrides the browser defaults
-        - Target elements in CSS
-            - ID's
-            - Tags
-            - Classes
+  - In this lesson we learned the CSS, Cascading Style Sheets, is what makes the actual web page look good. The HTML basically just renders the content on the page, the CSS is what actually makes it look pleasing to the eye. It gives more structure and a presentable look that makes it easier for a user to interact with. It defines color, spacing, padding, margin, blocks, etc. It tells the browser to override its default style and use something else. We then can define, very specifically, how each element of content is displayed to the user.
+    - CSS provides the styline for a webpage
+    - Overrides the browser defaults
+    - Target elements in CSS
+      - ID's
+      - Tags
+      - Classes
 
 - **BOX Model**
   - Margin
@@ -22,7 +22,7 @@ _This class focused on CSS and its function in styling websites._
     - Inline
       - This is where the css styling is placed in the actual tag element within the HTML document itself.  This will take priority when the page renders.
     - Internal
-      - This is where the CSS is identified in the HEAD section of the webpage.  It is between the STYLE tags and everything is styled for that particular page.  If there are no inline styling tags, this will take priority. 
+      - This is where the CSS is identified in the HEAD section of the webpage.  It is between the STYLE tags and everything is styled for that particular page.  If there are no inline styling tags, this will take priority.
     - External
       - This is where CSS is written in a separate external file and it is referenced in the HEAD section with a LINK tag.  Any page that references this CSS file will have the styles applied.  If there are no inline or internal stylings applied to the page, the external file will take priority.
 
@@ -40,7 +40,6 @@ _This class focused on CSS and its function in styling websites._
   - [Betterpalceholder Website](http://www.betterplaceholder.com)
   - [Website I referenced to style class website movie form](https://www.w3schools.com/css/tryit.asp?filename=trycss_forms)
 
-
 ## Navigation
 
 - [Home](https://mtorres6739.github.io/reading-notes)
@@ -51,4 +50,6 @@ _This class focused on CSS and its function in styling websites._
 - [Class 4 Notes](class4)
 - [Class 5 Notes](class5)
 - [Class 6 Notes](class6)
+- [Class 7 Notes](class7)
+- [Class 8 Notes](class8)
 - [GitHub Portfolio](https://github.com/mtorres6739)
