@@ -26,29 +26,37 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ## Code 102
 
-- [Class 1 Notes](class1)
-- [Class 2 Notes](class2)
-- [Class 3 Notes](class3)
-- [Class 4 Notes](class4)
-- [Class 5 Notes](class5)
-- [Class 6 Notes](class6)
-- [Class 7 Notes](class7)
-- [Class 8 Notes](class8)
+- [Class 1 Notes: Setting up Accounts and Learning Markdown](class1)
+- [Class 2 Notes: The Coder's Computer](class2)
+- [Class 3 Notes: Revisions in the Cloud](class3)
+- [Class 4 Notes: Structure web pages with HTML](class4)
+- [Class 5 Notes: Design web pages with CSS](class5)
+- [Class 6 Notes: Dynamic web pages with JavaScript](class6)
+- [Class 7 Notes: Programming with JavaScript](class7)
+- [Class 8 Notes: Operators and Loops](class8)
 
 ## Code 201
 
-- [Class 1 Notes](README)
-- [Class 2 Notes](README)
-- [Class 3 Notes](README)
-- [Class 4 Notes](README)
-- [Class 5 Notes](README)
-- [Class 6 Notes](README)
-- [Class 7 Notes](README)
-- [Class 8 Notes](README)
-- [Class 9 Notes](README)
-- [Class 10 Notes](README)
-- [Class 11 Notes](README)
-- [Class 12 Notes](README)
-- [Class 13 Notes](README)
-- [Class 14 Notes](README)
-- [Class 15 Notes](README)
+### Module 1: Introduction to Web Development
+
+- [Class 1 Notes: Setup Developer Toolbelt](README)
+- [Class 2 Notes: Introduction to Web Development](README)
+- [Class 3 Notes: Lists, The Box Model, and Loops](README)
+- [Class 4 Notes: Links, Layouts, and Functions](README)
+- [Class 5 Notes: Images, Color, Text, and More Work With Functions](README)
+
+### Module 2: The DOM, and Domain Modeling with Object Literals
+
+- [Class 6 Notes: Domain Modeling, Intro to the DOM, and Object Literal Notation](README)
+- [Class 7 Notes: HTML Tables and JS Constructor Functions](README)
+- [Class 8 Notes: Layout with CSS](README)
+- [Class 9 Notes: Forms and Events](README)
+- [Class 10 Notes: Debugging and Error Handling](README)
+
+### Module 3: Libraries and Local Storage
+
+- [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](README)
+- [Class 12 Notes: Canvas and ChartJS](README)
+- [Class 13 Notes: Introduction to Persistence with Local Storage](README)
+- [Class 14 Notes: Documentation, Project Selection, & Team Workflow](README)
+- [Class 15 Notes: Course Recap & 301 Preview](README)
