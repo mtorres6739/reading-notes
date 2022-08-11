@@ -24,14 +24,14 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 
 <details><summary>Code 102</summary>
 
-- [Class 1 Notes](class1)
-- [Class 2 Notes](class2)
-- [Class 3 Notes](class3)
-- [Class 4 Notes](class4)
-- [Class 5 Notes](class5)
-- [Class 6 Notes](class6)
-- [Class 7 Notes](class7)
-- [Class 8 Notes](class8)
+[Class 1 Notes](class1)
+[Class 2 Notes](class2)
+[Class 3 Notes](class3)
+[Class 4 Notes](class4)
+[Class 5 Notes](class5)
+[Class 6 Notes](class6)
+[Class 7 Notes](class7)
+[Class 8 Notes](class8)
 
 </details>
 
