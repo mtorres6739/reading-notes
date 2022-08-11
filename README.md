@@ -21,6 +21,12 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 
 - [Home](https://mtorres6739.github.io/reading-notes)
 - [Growth Mindset](growthMindset)
+
+<details>
+<summary>Code 102</summary>
+
+### Code 102
+
 - [Class 1 Notes](class1)
 - [Class 2 Notes](class2)
 - [Class 3 Notes](class3)
@@ -29,4 +35,30 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 - [Class 6 Notes](class6)
 - [Class 7 Notes](class7)
 - [Class 8 Notes](class8)
+
+</details>
+
+<details>
+<summary>Code 201</summary>
+
+### Code 201
+
+- [Class 1 Notes]()
+- [Class 2 Notes]()
+- [Class 3 Notes]()
+- [Class 4 Notes]()
+- [Class 5 Notes]()
+- [Class 6 Notes]()
+- [Class 7 Notes]()
+- [Class 8 Notes]()
+- [Class 9 Notes]()
+- [Class 10 Notes]()
+- [Class 11 Notes]()
+- [Class 12 Notes]()
+- [Class 13 Notes]()
+- [Class 14 Notes]()
+- [Class 15 Notes]()
+
+</details>
+
 - [GitHub Portfolio](https://github.com/mtorres6739)
