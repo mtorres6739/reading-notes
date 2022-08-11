@@ -32,6 +32,7 @@ My civilian career has primarily been sales and marketing.  I was most recently 
 [Class 6 Notes](class6)
 [Class 7 Notes](class7)
 [Class 8 Notes](class8)
+[Class 8 Test](https://www.dci.org)
 
 </details>
 
