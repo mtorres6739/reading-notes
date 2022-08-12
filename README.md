@@ -39,24 +39,24 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 1: Introduction to Web Development
 
-- [Class 1 Notes: Setup Developer Toolbelt](README)
-- [Class 2 Notes: Introduction to Web Development](README)
-- [Class 3 Notes: Lists, The Box Model, and Loops](README)
-- [Class 4 Notes: Links, Layouts, and Functions](README)
-- [Class 5 Notes: Images, Color, Text, and More Work With Functions](README)
+- [Class 1 Notes: Setup Developer Toolbelt](https://mtorres6739.github.io/reading-notes)
+- [Class 2 Notes: Introduction to Web Development](https://mtorres6739.github.io/reading-notes)
+- [Class 3 Notes: Lists, The Box Model, and Loops](https://mtorres6739.github.io/reading-notes)
+- [Class 4 Notes: Links, Layouts, and Functions](https://mtorres6739.github.io/reading-notes)
+- [Class 5 Notes: Images, Color, Text, and More Work With Functions](https://mtorres6739.github.io/reading-notes)
 
 ### Module 2: The DOM, and Domain Modeling with Object Literals
 
-- [Class 6 Notes: Domain Modeling, Intro to the DOM, and Object Literal Notation](README)
-- [Class 7 Notes: HTML Tables and JS Constructor Functions](README)
-- [Class 8 Notes: Layout with CSS](README)
-- [Class 9 Notes: Forms and Events](README)
-- [Class 10 Notes: Debugging and Error Handling](README)
+- [Class 6 Notes: Domain Modeling, Intro to the DOM, and Object Literal Notation](https://mtorres6739.github.io/reading-notes)
+- [Class 7 Notes: HTML Tables and JS Constructor Functions](https://mtorres6739.github.io/reading-notes)
+- [Class 8 Notes: Layout with CSS](https://mtorres6739.github.io/reading-notes)
+- [Class 9 Notes: Forms and Events](https://mtorres6739.github.io/reading-notes)
+- [Class 10 Notes: Debugging and Error Handling](https://mtorres6739.github.io/reading-notes)
 
 ### Module 3: Libraries and Local Storage
 
-- [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](README)
-- [Class 12 Notes: Canvas and ChartJS](README)
-- [Class 13 Notes: Introduction to Persistence with Local Storage](README)
-- [Class 14 Notes: Documentation, Project Selection, & Team Workflow](README)
-- [Class 15 Notes: Course Recap & 301 Preview](README)
+- [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](https://mtorres6739.github.io/reading-notes)
+- [Class 12 Notes: Canvas and ChartJS](https://mtorres6739.github.io/reading-notes)
+- [Class 13 Notes: Introduction to Persistence with Local Storage](https://mtorres6739.github.io/reading-notes)
+- [Class 14 Notes: Documentation, Project Selection, & Team Workflow](https://mtorres6739.github.io/reading-notes)
+- [Class 15 Notes: Course Recap & 301 Preview](https://mtorres6739.github.io/reading-notes)
