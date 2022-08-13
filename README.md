@@ -39,7 +39,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 1: Introduction to Web Development
 
-- [Class 1 Notes: Setup Developer Toolbelt](https://mtorres6739.github.io/reading-notes)
+- [Class 1 Notes: Setup Developer Toolbelt](201class01)
 - [Class 2 Notes: Introduction to Web Development](https://mtorres6739.github.io/reading-notes)
 - [Class 3 Notes: Lists, The Box Model, and Loops](https://mtorres6739.github.io/reading-notes)
 - [Class 4 Notes: Links, Layouts, and Functions](https://mtorres6739.github.io/reading-notes)
