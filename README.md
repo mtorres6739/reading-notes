@@ -43,7 +43,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 2 Notes: Introduction to Web Development](201class02)
 - [Class 3 Notes: Lists, The Box Model, and Loops](201class03)
 - [Class 4 Notes: Links, Layouts, and Functions](201class04)
-- [Class 5 Notes: Images, Color, Text, and More Work With Functions](https://mtorres6739.github.io/reading-notes)
+- [Class 5 Notes: Images, Color, Text, and More Work With Functions](201class05)
 
 ### Module 2: The DOM, and Domain Modeling with Object Literals
 
