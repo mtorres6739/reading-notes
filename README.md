@@ -48,7 +48,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 ### Module 2: The DOM, and Domain Modeling with Object Literals
 
 - [Class 6 Notes: Domain Modeling, Intro to the DOM, and Object Literal Notation](201class06)
-- [Class 7 Notes: HTML Tables and JS Constructor Functions](https://mtorres6739.github.io/reading-notes)
+- [Class 7 Notes: HTML Tables and JS Constructor Functions](201class07)
 - [Class 8 Notes: Layout with CSS](https://mtorres6739.github.io/reading-notes)
 - [Class 9 Notes: Forms and Events](https://mtorres6739.github.io/reading-notes)
 - [Class 10 Notes: Debugging and Error Handling](https://mtorres6739.github.io/reading-notes)
