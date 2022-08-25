@@ -50,7 +50,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 6 Notes: Domain Modeling, Intro to the DOM, and Object Literal Notation](201class06)
 - [Class 7 Notes: HTML Tables and JS Constructor Functions](201class07)
 - [Class 8 Notes: Layout with CSS](201class08)
-- [Class 9 Notes: Forms and Events](https://mtorres6739.github.io/reading-notes)
+- [Class 9 Notes: Forms and Events](201class09)
 - [Class 10 Notes: Debugging and Error Handling](https://mtorres6739.github.io/reading-notes)
 
 ### Module 3: Libraries and Local Storage
