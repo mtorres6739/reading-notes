@@ -55,7 +55,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 3: Libraries and Local Storage
 
-- [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](https://mtorres6739.github.io/reading-notes)
+- [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](201class11)
 - [Class 12 Notes: Canvas and ChartJS](https://mtorres6739.github.io/reading-notes)
 - [Class 13 Notes: Introduction to Persistence with Local Storage](https://mtorres6739.github.io/reading-notes)
 - [Class 14 Notes: Documentation, Project Selection, & Team Workflow](https://mtorres6739.github.io/reading-notes)
