@@ -57,6 +57,6 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 - [Class 11 Notes: Audio and Video in HTML; Domain Modeling Revisited](201class11)
 - [Class 12 Notes: Canvas and ChartJS](201class12)
-- [Class 13 Notes: Introduction to Persistence with Local Storage](https://mtorres6739.github.io/reading-notes)
+- [Class 13 Notes: Introduction to Persistence with Local Storage](201class13)
 - [Class 14 Notes: Documentation, Project Selection, & Team Workflow](https://mtorres6739.github.io/reading-notes)
 - [Class 15 Notes: Course Recap & 301 Preview](https://mtorres6739.github.io/reading-notes)
