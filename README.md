@@ -51,7 +51,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 7 Notes: HTML Tables and JS Constructor Functions](201class07)
 - [Class 8 Notes: Layout with CSS](201class08)
 - [Class 9 Notes: Forms and Events](201class09)
-- [Class 10 Notes: Debugging and Error Handling](201class10))
+- [Class 10 Notes: Debugging and Error Handling](201class10)
 
 ### Module 3: Libraries and Local Storage
 
