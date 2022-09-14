@@ -60,3 +60,29 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 13 Notes: Introduction to Persistence with Local Storage](201class13)
 - [Class 14 Notes: Documentation, Project Selection, & Team Workflow](201class14)
 - [Class 15 Notes: Course Recap & 301 Preview](https://mtorres6739.github.io/reading-notes)
+
+## Code 301
+
+### Module 1: Building the Front End
+
+- [Class 1 Notes:Introduction to React and Components](301class01)
+- [Class 2 Notes:State and Props](301class02)
+- [Class 3 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 4 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 5 Notes:](https://mtorres6739.github.io/reading-notes)
+
+### Module 2: Integrating the Back End
+
+- [Class 6 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 7 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 8 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 9 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 10 Notes:](https://mtorres6739.github.io/reading-notes)
+
+### Module 3: Full-Stack Applications
+
+- [Class 11 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 12 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 13 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 14 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 15 Notes:](https://mtorres6739.github.io/reading-notes)
