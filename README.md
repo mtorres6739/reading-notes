@@ -68,7 +68,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 1 Notes: Introduction to React and Components](301class01)
 - [Class 2 Notes: State and Props](301class02)
 - [Class 3 Notes: Passing Functions as Props](301class03)
-- [Class 4 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 4 Notes: React and Forms](301class04)
 - [Class 5 Notes:](https://mtorres6739.github.io/reading-notes)
 
 ### Module 2: Integrating the Back End
