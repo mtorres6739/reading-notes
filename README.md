@@ -69,7 +69,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 2 Notes: State and Props](301class02)
 - [Class 3 Notes: Passing Functions as Props](301class03)
 - [Class 4 Notes: React and Forms](301class04)
-- [Class 5 Notes:](301class05)
+- [Class 5 Notes: Putting it all together](301class05)
 
 ### Module 2: Integrating the Back End
 
