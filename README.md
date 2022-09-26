@@ -73,7 +73,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 2: Integrating the Back End
 
-- [Class 6 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 6 Notes: NODE.JS](301class06)
 - [Class 7 Notes:](https://mtorres6739.github.io/reading-notes)
 - [Class 8 Notes:](https://mtorres6739.github.io/reading-notes)
 - [Class 9 Notes:](https://mtorres6739.github.io/reading-notes)
