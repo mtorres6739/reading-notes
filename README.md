@@ -77,7 +77,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 7 Notes: REST](301class07)
 - [Class 8 Notes: APIs](301class08)
 - [Class 9 Notes: Functional Programming](301class09)
-- [Class 10 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 10 Notes: In Memory Storage](301class10)
 
 ### Module 3: Full-Stack Applications
 
