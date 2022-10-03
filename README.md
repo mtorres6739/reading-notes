@@ -81,7 +81,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 3: Full-Stack Applications
 
-- [Class 11 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 11 Notes: Mongo and Mongoose](301class11)
 - [Class 12 Notes:](https://mtorres6739.github.io/reading-notes)
 - [Class 13 Notes:](https://mtorres6739.github.io/reading-notes)
 - [Class 14 Notes:](https://mtorres6739.github.io/reading-notes)
