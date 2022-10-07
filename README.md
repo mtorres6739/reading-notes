@@ -85,4 +85,4 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 12 Notes: CRUD](301class12)
 - [Class 13 Notes: More CRUD](301class13)
 - [Class 14 Notes: Diversity & Inclusion in the Tech Industry](301class14)
-- [Class 15 Notes:](https://mtorres6739.github.io/reading-notes)
+- [Class 15 Notes: Authentication](301class15)
