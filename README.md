@@ -87,23 +87,88 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 14 Notes: Diversity & Inclusion in the Tech Industry](301class14)
 - [Class 15 Notes: Authentication](301class15)
 
-## Code 401
+## Code 401: Advanced Software Development
 
 ### Pre-Work
+
 - [SQL Practice](401class-pre-sql)
-### Module 1: Java Basics
 
-### Module 2: Java Fundamentals
+### Module 1
 
-### Module 3: Java Data Structures
+- [Class 1 Notes: Primitives, Strings, Printing, Loops, Arrays, and Functions](Home)
+- [Class 2 Notes: Gradle, IntelliJ, ArrayLists, Libraries, and Unit Testing](Home)
+- [Class 3 Notes: Maps/Sets, Packages, Access Modifiers, File I/O, and Exceptions](Home)
+- [Class 4 Notes: Object Oriented Programming, Domain Modeling, Static Properties/Functions, and Bitmaps](Home)
+- [Class 5 Notes: Linked Lists, Big O, Resume Workshop](Home)
 
-### Module 4: Java Classes
+### Module 2
 
-### Module 5: Linked Lists
+- [Class 6 Notes: Inheritance and Type Casting](Home)
+- [Class 7 Notes: Interfaces and Other Class Relationships](Home)
+- [Class 8 Notes: JSON/Gson and External Libraries](Home)
+- [Class 9 Notes: Java and The Web Request-Response Cycle](Home)
+- [Class 10 Notes: Stacks, Queues, Personal Pitch Workshop](Home)
 
-### Module 6: Inheritance and Interfaces
+### Module 3
 
-### Module 7: Advanced Java
+- [Class 11 Notes: Intro to Spring MVC, Spring Initializr, Styling, Thymeleaf, and Deploying To Heroku](Home)
+- [Class 12 Notes: Spring and RESTful Routing, Postgres, Hibernate, and JPA](Home)
+- [Class 13 Notes: One-To-Many/Many-To-One Relationships, and Testing With JUnit and Hamcrest](Home)
+- [Class 14 Notes: Authentication With Bcrypt](Home)
+- [Class 15 Notes: Trees, Job Search Workshop](Home)
 
+### Module 4
 
+- [Class 16 Notes: Authentication With Spring Security](Home)
+- [Class 17 Notes: Authorization With Spring Security and Error Pages](Home)
+- [Class 18 Notes: SQL Injection, XSS, and Many-To-Many Relationships](Home)
+- [Class 19 Notes: Stream Processing Using Collections And Lambdas](Home)
+- [Class 20 Notes: Project Kickoffs](Home)
 
+### Module 5
+
+- [Class 21 Notes: Wireframes, User Stories, Architecture Plan, DevOps, Documentation, Agreements](Home)
+- [Class 22 Notes: Phase 1](Home)
+- [Class 23 Notes: MVP](Home)
+- [Class 24 Notes: Final Polish, Presentation Practice](Home)
+- [Class 25 Notes: Final Project Presentations](Home)
+
+### Module 6
+
+- [Class 26 Notes: Basic Android UI, Activities, Layouts, and Event Handlers](Home)
+- [Class 27 Notes: SharedPreferences and Intents](Home)
+- [Class 28 Notes: RecyclerViews](Home)
+- [Class 29 Notes: Local Persistance With Room](Home)
+- [Class 30 Notes: Hash Tables, Behavioral Interviewing](Home)
+
+### Module 7
+
+- [Class 31 Notes: Espresso Integration Testing, AWS, AWS Amplify, Day 1 Of GraphQL and DynamoDb](Home)
+- [Class 32 Notes: Day 2 Of GraphQL and DynamoDb](Home)
+- [Class 33 Notes: One-To-Many and Many-To-One Relationships In DynamoDb](Home)
+- [Class 34 Notes: Publishing To The Google Play Store](Home)
+- [Class 35 Notes: Graphs, Technical Interviewing](Home)
+
+### Module 8
+
+- [Class 36 Notes: Authentication With Cognito](Home)
+- [Class 37 Notes: S3 Storage](Home)
+- [Class 38 Notes: Implicit Intents To And From Your Application](Home)
+- [Class 39 Notes: Location](Home)
+- [Class 40 Notes: Personal Presentation](Home)
+
+### Module 9
+
+- [Class 41 Notes: Analytics And Text-To-Speech](Home)
+- [Class 42 Notes: Monetization And AdMob Ads](Home)
+- [Class 43 Notes: Open Source Contribution](Home)
+- [Class 44 Notes: Ethics](Home)
+- [Class 45 Notes: Project Kickoffs](Home)
+
+### Module 10
+
+- [Class 46 Notes: Wireframes, User Stories, Architecture Plan, DevOps, Documentation, Agreements](Home)
+- [Class 47 Notes: Phase 1](Home)
+- [Class 48 Notes: MVP](Home)
+- [Class 49 Notes: Final Polish, Presentation Practice](Home)
+- [Class 50 Notes: Final Project Presentations](Home)
