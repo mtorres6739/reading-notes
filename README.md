@@ -92,6 +92,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 ### Pre-Work
 
 - [SQL Practice](401class-pre-sql)
+- [BASH](401class-pre-bash)
 
 ### Module 1
 
