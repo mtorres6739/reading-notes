@@ -86,3 +86,24 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 13 Notes: More CRUD](301class13)
 - [Class 14 Notes: Diversity & Inclusion in the Tech Industry](301class14)
 - [Class 15 Notes: Authentication](301class15)
+
+## Code 401
+
+### Pre-Work
+- [SQL Practice](401class-pre-sql)
+### Module 1: Java Basics
+
+### Module 2: Java Fundamentals
+
+### Module 3: Java Data Structures
+
+### Module 4: Java Classes
+
+### Module 5: Linked Lists
+
+### Module 6: Inheritance and Interfaces
+
+### Module 7: Advanced Java
+
+
+
