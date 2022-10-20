@@ -93,7 +93,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 - [SQL Practice](401class-pre-sql)
 - [BASH](401class-pre-bash)
--[Growth Mindset](401class-pre-growth-mindset)
+- [Growth Mindset](401class-pre-growth-mindset)
 
 ### Module 1
 
