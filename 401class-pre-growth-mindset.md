@@ -42,3 +42,5 @@ After taking the emotional intelligence survey, I scored 25 in Self-Awareness, a
 ## Assessing Bias
 
 After taking the Bias Self Assessment from Code 201, I initially wasn't sure what I think about the assessment.  My strongest area was Meaningful Connections.  My weakest area was Bias and Identity. During Code 301 I feel I have increased my awareness of Bias and Identity while working with multiple people in various groups.
+
+- [Assessing Bias](https://codefellows.github.io/common_curriculum/career_coaching/201/bias-self-assessment.pdf)
