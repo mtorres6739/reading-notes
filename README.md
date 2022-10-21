@@ -95,6 +95,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [BASH](401class-pre-bash)
 - [Growth Mindset](401class-pre-growth-mindset)
 - [Typing in Java](401class-pre-typing)
+- [GIT](401class-pre-git)
 
 ### Module 1
 
