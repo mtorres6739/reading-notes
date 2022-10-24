@@ -99,7 +99,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 1
 
-- [Class 1 Notes: Primitives, Strings, Printing, Loops, Arrays, and Functions](Home)
+- [Class 1 Notes: Primitives, Strings, Printing, Loops, Arrays, and Functions](401class01)
 - [Class 2 Notes: Gradle, IntelliJ, ArrayLists, Libraries, and Unit Testing](Home)
 - [Class 3 Notes: Maps/Sets, Packages, Access Modifiers, File I/O, and Exceptions](Home)
 - [Class 4 Notes: Object Oriented Programming, Domain Modeling, Static Properties/Functions, and Bitmaps](Home)
