@@ -97,6 +97,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Typing in Java](401class-pre-typing)
 - [GIT](401class-pre-git)
 - [Data Structures and Algorithms](401class-pre-dataStructuresAndAlgorithms)
+- [Engineering](401class-pre-engeering.md)
 
 ### Module 1
 
