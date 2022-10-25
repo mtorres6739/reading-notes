@@ -96,6 +96,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Growth Mindset](401class-pre-growth-mindset)
 - [Typing in Java](401class-pre-typing)
 - [GIT](401class-pre-git)
+- [Data Structures and Algorithms](401class-pre-dataStructuresAndAlgorithms)
 
 ### Module 1
 
