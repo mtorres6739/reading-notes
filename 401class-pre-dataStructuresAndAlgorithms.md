@@ -19,3 +19,7 @@
 - [Youtube: Big 0 Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 - [Basic Data Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 - [Why Big 0](https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms)
+
+## Things I want to know more about
+
+- None
