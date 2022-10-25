@@ -21,3 +21,7 @@
 - [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 - [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 - [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
+
+## Things I want to know more about
+
+- None
