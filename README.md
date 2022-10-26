@@ -103,7 +103,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 - [Class 1 Notes: Primitives, Strings, Printing, Loops, Arrays, and Functions](401class01)
 - [Class 2 Notes: Gradle, IntelliJ, ArrayLists, Libraries, and Unit Testing](401class02)
-- [Class 3 Notes: Maps/Sets, Packages, Access Modifiers, File I/O, and Exceptions](Home)
+- [Class 3 Notes: Maps/Sets, Packages, Access Modifiers, File I/O, and Exceptions](401class03)
 - [Class 4 Notes: Object Oriented Programming, Domain Modeling, Static Properties/Functions, and Bitmaps](Home)
 - [Class 5 Notes: Linked Lists, Big O, Resume Workshop](Home)
 
