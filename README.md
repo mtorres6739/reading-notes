@@ -109,7 +109,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 2
 
-- [Class 6 Notes: Inheritance and Type Casting](Home)
+- [Class 6 Notes: Inheritance and Type Casting](401class06)
 - [Class 7 Notes: Interfaces and Other Class Relationships](Home)
 - [Class 8 Notes: JSON/Gson and External Libraries](Home)
 - [Class 9 Notes: Java and The Web Request-Response Cycle](Home)
