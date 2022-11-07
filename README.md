@@ -113,11 +113,11 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 7 Notes: Interfaces and Other Class Relationships](401class07)
 - [Class 8 Notes: JSON/Gson and External Libraries](401class08)
 - [Class 9 Notes: Java and The Web Request-Response Cycle](401class09)
-- [Class 10 Notes: Stacks, Queues, Personal Pitch Workshop](Home)
+- [Class 10 Notes: Stacks, Queues, Personal Pitch Workshop](401class10)
 
 ### Module 3
 
-- [Class 11 Notes: Intro to Spring MVC, Spring Initializr, Styling, Thymeleaf, and Deploying To Heroku](Home)
+- [Class 11 Notes: Intro to Spring MVC, Spring Initializr, Styling, Thymeleaf, and Deploying To Heroku](401class11)
 - [Class 12 Notes: Spring and RESTful Routing, Postgres, Hibernate, and JPA](Home)
 - [Class 13 Notes: One-To-Many/Many-To-One Relationships, and Testing With JUnit and Hamcrest](Home)
 - [Class 14 Notes: Authentication With Bcrypt](Home)
