@@ -118,7 +118,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 ### Module 3
 
 - [Class 11 Notes: Intro to Spring MVC, Spring Initializr, Styling, Thymeleaf, and Deploying To Heroku](401class11)
-- [Class 12 Notes: Spring and RESTful Routing, Postgres, Hibernate, and JPA](Home)
+- [Class 12 Notes: Spring and RESTful Routing, Postgres, Hibernate, and JPA](401class12)
 - [Class 13 Notes: One-To-Many/Many-To-One Relationships, and Testing With JUnit and Hamcrest](Home)
 - [Class 14 Notes: Authentication With Bcrypt](Home)
 - [Class 15 Notes: Trees, Job Search Workshop](Home)
