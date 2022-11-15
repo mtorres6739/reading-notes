@@ -126,7 +126,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 ### Module 4
 
 - [Class 16 Notes: Authentication With Spring Security](401class16)
-- [Class 17 Notes: Authorization With Spring Security and Error Pages](Home)
+- [Class 17 Notes: Authorization With Spring Security and Error Pages](401class17)
 - [Class 18 Notes: SQL Injection, XSS, and Many-To-Many Relationships](Home)
 - [Class 19 Notes: Stream Processing Using Collections And Lambdas](Home)
 - [Class 20 Notes: Project Kickoffs](Home)
