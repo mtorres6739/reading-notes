@@ -145,7 +145,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 27 Notes: SharedPreferences and Intents](401class27)
 - [Class 28 Notes: RecyclerViews](Home)
 - [Class 29 Notes: Local Persistance With Room](Home)
-- [Class 30 Notes: Hash Tables, Behavioral Interviewing](Home)
+- [Class 30 Notes: Hash Tables, Behavioral Interviewing](401class30)
 
 ### Module 7
 
