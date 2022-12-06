@@ -144,7 +144,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 26 Notes: Basic Android UI, Activities, Layouts, and Event Handlers](401class26)
 - [Class 27 Notes: SharedPreferences and Intents](401class27)
 - [Class 28 Notes: RecyclerViews](401class28)
-- [Class 29 Notes: Local Persistance With Room](Home)
+- [Class 29 Notes: Local Persistance With Room](401class29)
 - [Class 30 Notes: Hash Tables, Behavioral Interviewing](401class30)
 
 ### Module 7
