@@ -151,8 +151,8 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 - [Class 31 Notes: Espresso Integration Testing, AWS, AWS Amplify, Day 1 Of GraphQL and DynamoDb](401class31)
 - [Class 32 Notes: Day 2 Of GraphQL and DynamoDb](401class32)
-- [Class 33 Notes: One-To-Many and Many-To-One Relationships In DynamoDb](Home)
-- [Class 34 Notes: Publishing To The Google Play Store](Home)
+- [Class 33 Notes: One-To-Many and Many-To-One Relationships In DynamoDb](401class33)
+- [Class 34 Notes: Publishing To The Google Play Store](401class34)
 - [Class 35 Notes: Graphs, Technical Interviewing](Home)
 
 ### Module 8
