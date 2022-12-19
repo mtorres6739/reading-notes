@@ -159,8 +159,8 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 - [Class 36 Notes: Authentication With Cognito](401class36)
 - [Class 37 Notes: S3 Storage](401class37)
-- [Class 38 Notes: Implicit Intents To And From Your Application](Home)
-- [Class 39 Notes: Location](Home)
+- [Class 38 Notes: Implicit Intents To And From Your Application](401class38)
+- [Class 39 Notes: Location](401class39)
 - [Class 40 Notes: Personal Presentation](Home)
 
 ### Module 9
