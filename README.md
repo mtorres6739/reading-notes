@@ -173,7 +173,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 
 ### Module 10
 
-- [Class 46 Notes: Wireframes, User Stories, Architecture Plan, DevOps, Documentation, Agreements](Home)
+- [Class 46 Notes: Wire frames, User Stories, Architecture Plan, DevOps, Documentation, Agreements](Home)
 - [Class 47 Notes: Phase 1](Home)
 - [Class 48 Notes: MVP](Home)
 - [Class 49 Notes: Final Polish, Presentation Practice](Home)
