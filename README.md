@@ -169,7 +169,7 @@ Turns out I don't really enjoy sales.  I found myself spending all my time after
 - [Class 42 Notes: Monetization And AdMob Ads](401class42)
 - [Class 43 Notes: Open Source Contribution](Home)
 - [Class 44 Notes: Ethics](401class44)
-- [Class 45 Notes: Project Kickoffs](Home)
+- [Class 45 Notes: Project Kickoffs](401class45)
 
 ### Module 10
 
